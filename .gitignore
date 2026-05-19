@@ -1,9 +1,6 @@
 # Data — archivos grandes, no versionar
 data/
 
-# Figuras generadas
-figures/
-
 # Python
 __pycache__/
 *.py[cod]
