@@ -30,3 +30,6 @@ env/
 
 # Configuración local
 *.local
+
+# Presentación
+presentation
